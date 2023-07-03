@@ -1,6 +1,7 @@
 ### Hi there 👋, I am moc#.
 
 JavaScript certification: https://www.freecodecamp.org/certification/ionuth/javascript-algorithms-and-data-structures
+Java certification from Google (yes, Google): https://drive.google.com/file/d/1xMjcm1P34zJN_5DAkal0tWqPRVK4KP6B/view?usp=sharing
 
 <!--
 **masterofcsharp/masterofcsharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
