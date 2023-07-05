@@ -6,6 +6,7 @@ Java certification from Google (yes, Google): https://drive.google.com/file/d/1x
 
 Deployments: 
 1) cv-app: https://masterofcsharp.github.io/my-cv-in-html-and-css-template-/
+2) tic-tac-toe game: https://masterofcsharp.github.io/tictactoe-html-CSS-js/
 
 <!--
 **masterofcsharp/masterofcsharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
