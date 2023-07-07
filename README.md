@@ -1,8 +1,12 @@
 ### Hi there 👋, I am moc#.
 
-JavaScript certification: https://www.freecodecamp.org/certification/ionuth/javascript-algorithms-and-data-structures
+Java Internship completion certificate: https://drive.google.com/file/d/1sonkNCntI6hDdL4CebhQ6B8EdTRxIIvm/view?usp=sharing
 
 Java certification from Google (yes, Google): https://drive.google.com/file/d/1xMjcm1P34zJN_5DAkal0tWqPRVK4KP6B/view?usp=sharing
+
+JavaScript certification: https://www.freecodecamp.org/certification/ionuth/javascript-algorithms-and-data-structures
+
+
 
 Deployments: 
 1) cv-app: https://masterofcsharp.github.io/my-cv-in-html-and-css-template-/
