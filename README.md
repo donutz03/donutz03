@@ -1,10 +1,13 @@
 ### Hi there 👋, I am moc#.
 
-Java Internship completion certificate: https://drive.google.com/file/d/1sonkNCntI6hDdL4CebhQ6B8EdTRxIIvm/view?usp=sharing
+1) ANGULAR CERTIFICATE
 
-Java certification from Google (yes, Google): https://drive.google.com/file/d/1xMjcm1P34zJN_5DAkal0tWqPRVK4KP6B/view?usp=sharing
+2) JAVA INTERNSHIP CERTIFICATE: https://drive.google.com/file/d/1sonkNCntI6hDdL4CebhQ6B8EdTRxIIvm/view?usp=sharing
 
-JavaScript certification: https://www.freecodecamp.org/certification/ionuth/javascript-algorithms-and-data-structures
+3) JAVASCRIPT CERTIFICATE: https://www.freecodecamp.org/certification/ionuth/javascript-algorithms-and-data-structures
+
+4) JAVA CERTIFICATE from GOOGLE (yes, Google): https://drive.google.com/file/d/1xMjcm1P34zJN_5DAkal0tWqPRVK4KP6B/view?usp=sharing
+
 
 
 
