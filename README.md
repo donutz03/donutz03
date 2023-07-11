@@ -6,7 +6,7 @@
 
 3) JAVASCRIPT CERTIFICATE: https://www.freecodecamp.org/certification/ionuth/javascript-algorithms-and-data-structures
 
-4) JAVA CERTIFICATE from GOOGLE (yes, Google): https://drive.google.com/file/d/1xMjcm1P34zJN_5DAkal0tWqPRVK4KP6B/view?usp=sharing
+4) JAVA CERTIFICATE from GOOGLE: https://drive.google.com/file/d/1xMjcm1P34zJN_5DAkal0tWqPRVK4KP6B/view?usp=sharing
 
 
 
