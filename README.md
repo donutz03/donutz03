@@ -1,4 +1,4 @@
-### Hi there 👋, I am moc#.
+### Hi there 👋, I am moc#
 
 1) ANGULAR CERTIFICATE https://drive.google.com/file/d/1kBqB67FedHFO2u-br1XPFVpv213v1U9B/view?usp=sharing
 
