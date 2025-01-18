@@ -1,4 +1,4 @@
-🥇 First place Devmind Hackathon by Sprint IT 
+🥇 First place Devmind Hackathon by Spring IT 
 
 🥉Third place Adobe Hackathon by ItFest: https://www.youtube.com/watch?v=_79t5QgXMxI
 
